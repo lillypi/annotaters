@@ -5,4 +5,5 @@ These are scripts that implement previously developed tools for the purpose of c
 The purpose of this repo is for personal training and to have visualization methods of the output of these tools.
 
 sc-type.R utilizes the scType algorithm.
+
 cellassign.R utilizes the cellassign algorithm.
